@@ -40,4 +40,7 @@ Spring boot를 기반으로 RESTful Order Service와 Product Service를 구현
 9. service.client.ProductServiceClient_rest 클래스 정의
     * 위 Restful Product Service를 테스트하기 위한 client program    
 
+### 실행 방법
+com.example.jpetstore.JpetstoreBootApplication.java 프로그램을 실행한 후     
+위 client program들을 실행하거나 http://localhost:8088로 접속해서 주문 목록 페이지로 이동
 
